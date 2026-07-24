@@ -1,0 +1,9 @@
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data. Supervised learning uses labeled data, while unsupervised learning finds hidden patterns. XGBoost is a powerful algorithm used for classification and regression tasks.
+
+Deep Learning uses neural networks with multiple hidden layers to solve complex problems. Convolutional Neural Networks are mainly used for image processing. Transformers have become the foundation of modern Natural Language Processing applications.
+
+Natural Language Processing allows computers to understand and generate human language. Tokenization splits text into smaller units called tokens. Word embeddings represent words as numerical vectors that capture their meanings.
+
+Generative AI creates content such as text, images, audio, and code. Large Language Models like GPT predict the next token to generate meaningful responses. Prompt engineering helps improve the quality of AI-generated outputs.
+
+Retrieval-Augmented Generation combines document retrieval with language generation. Documents are divided into smaller chunks before creating embeddings. A vector database stores these embeddings for efficient similarity search.

@@ -1,3 +1,20 @@
-ML is subset of AI which learns the pattern to predict the future.
-Big Data handles larger data store and process!
-XGBoost is a popular algorithm in ML.
+Machine Learning is a subset of Artificial Intelligence that learns patterns from data to make predictions. 
+Supervised learning uses labeled datasets, while unsupervised learning discovers hidden patterns without labels. 
+XGBoost is a popular machine learning algorithm known for its speed and accuracy.
+
+Deep Learning is an advanced branch of Machine Learning that uses neural networks with multiple hidden layers. 
+Convolutional Neural Networks are widely used for image classification, 
+while Transformers are commonly used in Natural Language Processing tasks. 
+TensorFlow and PyTorch are two of the most popular deep learning frameworks.
+
+Natural Language Processing enables computers to understand and generate human language. 
+Tokenization breaks text into smaller units called tokens, and text preprocessing removes unnecessary characters and stop words. 
+Word embeddings convert words into numerical vectors that capture semantic meaning.
+
+Generative AI creates new content such as text, images, audio, and code. 
+Large Language Models like GPT generate responses by predicting the next token in a sequence. 
+Prompt engineering improves the quality of AI-generated responses by providing clear and structured instructions.
+
+Retrieval-Augmented Generation combines information retrieval with language generation. 
+Documents are divided into smaller chunks before creating embeddings and storing them in a vector database. During inference, 
+the most relevant chunks are retrieved using similarity search and provided to the language model to generate accurate responses.
